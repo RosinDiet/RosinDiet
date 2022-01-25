@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RosinDiet
 - 👀 I’m interested in ... smart contracts
 - 🌱 I’m currently learning ... everything associated with code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... @RosinDiet on twitter!
 
 <!---
